@@ -1,0 +1,6 @@
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\BirAdimİlerisi\BirAdimİlerisi\bin\Debug\BirAdimİlerisi.exe.config
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\BirAdimİlerisi\BirAdimİlerisi\bin\Debug\BirAdimİlerisi.exe
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\BirAdimİlerisi\BirAdimİlerisi\bin\Debug\BirAdimİlerisi.pdb
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\BirAdimİlerisi\BirAdimİlerisi\obj\Debug\BirAdimİlerisi.csprojResolveAssemblyReference.cache
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\BirAdimİlerisi\BirAdimİlerisi\obj\Debug\BirAdimİlerisi.exe
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\BirAdimİlerisi\BirAdimİlerisi\obj\Debug\BirAdimİlerisi.pdb

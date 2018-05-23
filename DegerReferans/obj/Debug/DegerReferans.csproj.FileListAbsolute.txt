@@ -1,0 +1,5 @@
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\DegerReferans\bin\Debug\DegerReferans.exe.config
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\DegerReferans\bin\Debug\DegerReferans.exe
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\DegerReferans\bin\Debug\DegerReferans.pdb
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\DegerReferans\obj\Debug\DegerReferans.exe
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\DegerReferans\obj\Debug\DegerReferans.pdb

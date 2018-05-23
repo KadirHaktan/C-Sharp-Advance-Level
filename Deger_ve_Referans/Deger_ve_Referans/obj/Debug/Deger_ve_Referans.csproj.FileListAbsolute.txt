@@ -1,0 +1,6 @@
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Deger_ve_Referans\Deger_ve_Referans\bin\Debug\Deger_ve_Referans.exe.config
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Deger_ve_Referans\Deger_ve_Referans\bin\Debug\Deger_ve_Referans.exe
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Deger_ve_Referans\Deger_ve_Referans\bin\Debug\Deger_ve_Referans.pdb
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Deger_ve_Referans\Deger_ve_Referans\obj\Debug\Deger_ve_Referans.csprojResolveAssemblyReference.cache
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Deger_ve_Referans\Deger_ve_Referans\obj\Debug\Deger_ve_Referans.exe
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Deger_ve_Referans\Deger_ve_Referans\obj\Debug\Deger_ve_Referans.pdb
