@@ -1,0 +1,12 @@
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\bin\Debug\TCPIP Demo.exe.config
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\bin\Debug\TCPIP Demo.exe
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\bin\Debug\TCPIP Demo.pdb
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\bin\Debug\Simple.dll
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\bin\Debug\SimpleTCP.dll
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP Demo.csprojResolveAssemblyReference.cache
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP_Demo.Form1.resources
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP_Demo.Properties.Resources.resources
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP Demo.csproj.GenerateResource.Cache
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP Demo.exe
+C:\Users\Ebubekir Dogan\source\repos\TCPIP Demo\obj\Debug\TCPIP Demo.pdb
