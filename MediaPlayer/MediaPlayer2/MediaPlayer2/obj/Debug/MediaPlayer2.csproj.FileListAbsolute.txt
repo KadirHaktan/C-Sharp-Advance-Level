@@ -1,0 +1,57 @@
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\bin\Debug\MediaPlayer2.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\bin\Debug\MediaPlayer2.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.Form1.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.pdb
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\Interop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.ResolveComReference.cache
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.exe
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.Form1.resources
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.Properties.Resources.resources
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.GenerateResource.Cache
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\bin\Debug\MediaPlayer2.exe
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\bin\Debug\MediaPlayer2.pdb
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\bin\Debug\Interop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.pdb
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\Interop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.ResolveComReference.cache
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\MediaPlayer2.exe
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\MediaPlayer2.pdb
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\bin\Debug\MediaPlayer2.exe
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\bin\Debug\MediaPlayer2.pdb
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\bin\Debug\Interop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\MediaPlayer2.Properties.Resources.resources
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.GenerateResource.Cache
+C:\Users\aNıL eRoL\Desktop\MediaPlayer2bu\MediaPlayer2\obj\Debug\MediaPlayer2.MediaPlayer.resources
+C:\Users\aNıL eRoL\Desktop\Analizler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\Interop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\Analizler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\aNıL eRoL\Desktop\Analizler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.ResolveComReference.cache
+C:\Users\aNıL eRoL\Desktop\Analizler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.exe
+C:\Users\aNıL eRoL\Desktop\Analizler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.pdb
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.ResolveComReference.cache
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.exe
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.pdb
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\bin\Debug\MediaPlayer2.exe
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\bin\Debug\MediaPlayer2.pdb
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.MediaPlayer.resources
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.Properties.Resources.resources
+C:\Documents and Settings\tilbeyli\Desktop\ANIL_EROL_Projeler\MediaPlayer\MediaPlayer2\MediaPlayer2\obj\Debug\MediaPlayer2.csproj.GenerateResource.Cache
