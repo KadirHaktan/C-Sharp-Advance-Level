@@ -1,0 +1,2 @@
+C:\Documents and Settings\admin\Desktop\C# okulda yaptıklarımız\datagrid\datagrid\obj\Debug\datagrid.exe
+C:\Documents and Settings\admin\Desktop\C# okulda yaptıklarımız\datagrid\datagrid\obj\Debug\datagrid.pdb

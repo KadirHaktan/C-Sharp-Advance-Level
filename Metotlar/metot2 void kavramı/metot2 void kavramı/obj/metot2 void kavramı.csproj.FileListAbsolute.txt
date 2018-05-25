@@ -1,0 +1,8 @@
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\obj\Debug\metot2_void_kavramı.Form1.resources
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\obj\Debug\metot2_void_kavramı.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\obj\Debug\metot2 void kavramı.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\bin\Debug\metot2 void kavramı.exe
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\bin\Debug\metot2 void kavramı.pdb
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\obj\Debug\metot2 void kavramı.exe
+C:\Documents and Settings\admin\Desktop\Metotlar\metot2 void kavramı\metot2 void kavramı\obj\Debug\metot2 void kavramı.pdb

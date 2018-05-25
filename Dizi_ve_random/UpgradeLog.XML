@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dizi_ve_random">
+</Property><Property Name="Solution File" Value="D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Dizi_ve_random.sln">
+</Property><Property Name="User Options File" Value="D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Dizi_ve_random.suo">
+</Property><Property Name="Date" Value="25 Şubat 2012 Cumartesi">
+</Property><Property Name="Time" Value="20:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Dizi_ve_random.sln" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Dizi_ve_random.suo" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random.suo">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Dizi_ve_random.csproj" Description="Project file successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Dizi_ve_random.csproj">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Form1.cs" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Form1.Designer.cs" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Program.cs" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Program.cs">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Properties\Settings.settings" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Form1.resx" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Properties\Resources.resx" Description="File successfully backed up as D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Backup\Dizi_ve_random\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Dizi_ve_random.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dizi_ve_random" Source="Dizi_ve_random\Dizi_ve_random.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dizi_ve_random.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dizi_ve_random.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dizi_ve_random" Source="Dizi_ve_random\Dizi_ve_random.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

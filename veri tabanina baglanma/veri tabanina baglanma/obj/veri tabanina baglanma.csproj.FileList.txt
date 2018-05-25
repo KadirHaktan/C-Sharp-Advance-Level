@@ -1,0 +1,8 @@
+bin\Debug\veri tabanina baglanma.exe
+bin\Debug\veri tabanina baglanma.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\veri_tabanina_baglanma.Form1.resources
+obj\Debug\veri_tabanina_baglanma.Properties.Resources.resources
+obj\Debug\veri tabanina baglanma.csproj.GenerateResource.Cache
+obj\Debug\veri tabanina baglanma.exe
+obj\Debug\veri tabanina baglanma.pdb

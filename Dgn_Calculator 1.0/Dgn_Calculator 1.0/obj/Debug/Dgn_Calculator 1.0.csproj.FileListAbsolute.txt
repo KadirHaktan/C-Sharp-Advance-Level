@@ -1,0 +1,26 @@
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator.Form1.resources
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator.Properties.Resources.resources
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.csproj.GenerateResource.Cache
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\bin\Debug\Dgn_Calculator 1.0.exe
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\bin\Debug\Dgn_Calculator 1.0.pdb
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.exe
+C:\Users\ebubekir\Documents\Visual Studio 2008\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.pdb
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.exe
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.pdb
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\bin\Debug\Dgn_Calculator 1.0.exe
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\bin\Debug\Dgn_Calculator 1.0.pdb
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator.Form1.resources
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator.Properties.Resources.resources
+C:\Users\ebubekir\Documents\Visual Studio 10\Projects\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.csproj.GenerateResource.Cache
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.exe
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.pdb
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator.Form1.resources
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator.Properties.Resources.resources
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.csproj.GenerateResource.Cache
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\bin\Debug\Dgn_Calculator 1.0.exe
+C:\Users\ebubekir\Desktop\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\bin\Debug\Dgn_Calculator 1.0.pdb
+D:\YAPTIĞIM PROJELER\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.exe
+D:\YAPTIĞIM PROJELER\C#\Dgn_Calculator 1.0\Dgn_Calculator 1.0\obj\Debug\Dgn_Calculator 1.0.pdb

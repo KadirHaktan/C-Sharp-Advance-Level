@@ -1,0 +1,8 @@
+bin\Debug\fonksiyonlar.exe
+bin\Debug\fonksiyonlar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\fonksiyonlar.Form1.resources
+obj\Debug\fonksiyonlar.Properties.Resources.resources
+obj\Debug\fonksiyonlar.csproj.GenerateResource.Cache
+obj\Debug\fonksiyonlar.exe
+obj\Debug\fonksiyonlar.pdb

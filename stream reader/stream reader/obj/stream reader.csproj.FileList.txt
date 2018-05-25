@@ -1,0 +1,8 @@
+bin\Debug\stream reader.exe
+bin\Debug\stream reader.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\stream_reader.Form1.resources
+obj\Debug\stream_reader.Properties.Resources.resources
+obj\Debug\stream reader.csproj.GenerateResource.Cache
+obj\Debug\stream reader.exe
+obj\Debug\stream reader.pdb

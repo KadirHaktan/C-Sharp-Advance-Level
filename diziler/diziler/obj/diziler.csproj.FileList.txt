@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\diziler.Form1.resources
+obj\Debug\diziler.Properties.Resources.resources
+obj\Debug\diziler.csproj.GenerateResource.Cache
+bin\Debug\diziler.exe
+bin\Debug\diziler.pdb
+obj\Debug\diziler.exe
+obj\Debug\diziler.pdb

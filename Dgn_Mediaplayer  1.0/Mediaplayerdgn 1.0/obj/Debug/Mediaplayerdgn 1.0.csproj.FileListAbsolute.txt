@@ -1,0 +1,18 @@
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\bin\Debug\Mediaplayerdgn 1.0.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\bin\Debug\Mediaplayerdgn 1.0.pdb
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.csproj.ResolveComReference.cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn_1._0.Form1.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn_1._0.Properties.Resources.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.csproj.GenerateResource.Cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.pdb
+C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.csproj.ResolveComReference.cache
+C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.exe
+C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0\obj\Debug\Mediaplayerdgn 1.0.pdb

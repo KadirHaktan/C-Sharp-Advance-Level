@@ -1,0 +1,8 @@
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\bin\Debug\mesaj kutuları kullanım.exe
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\bin\Debug\mesaj kutuları kullanım.pdb
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\obj\Debug\mesaj_kutuları_kullanım.Form1.resources
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\obj\Debug\mesaj_kutuları_kullanım.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\obj\Debug\mesaj kutuları kullanım.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\obj\Debug\mesaj kutuları kullanım.exe
+C:\Documents and Settings\admin\Desktop\Mesaj Kutuları\mesaj kutuları kullanım\mesaj kutuları kullanım\obj\Debug\mesaj kutuları kullanım.pdb

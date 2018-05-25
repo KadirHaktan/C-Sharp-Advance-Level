@@ -1,0 +1,9 @@
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\bin\Debug\Tic_Tac_oyunu.exe.config
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\bin\Debug\Tic_Tac_oyunu.exe
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\bin\Debug\Tic_Tac_oyunu.pdb
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\obj\Debug\Tic_Tac_oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\obj\Debug\Tic_Tac_oyunu.Form1.resources
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\obj\Debug\Tic_Tac_oyunu.Properties.Resources.resources
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\obj\Debug\Tic_Tac_oyunu.csproj.GenerateResource.Cache
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\obj\Debug\Tic_Tac_oyunu.exe
+C:\Users\Ebubekir\Documents\Visual Studio 2015\Projects\Tic_Tac_oyunu\Tic_Tac_oyunu\obj\Debug\Tic_Tac_oyunu.pdb

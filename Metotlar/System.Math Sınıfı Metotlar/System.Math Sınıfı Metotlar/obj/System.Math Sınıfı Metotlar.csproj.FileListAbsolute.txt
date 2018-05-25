@@ -1,0 +1,8 @@
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\bin\Debug\System.Math Sınıfı Metotlar.exe
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\bin\Debug\System.Math Sınıfı Metotlar.pdb
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\obj\Debug\System.Math_Sınıfı_Metotlar.Form1.resources
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\obj\Debug\System.Math_Sınıfı_Metotlar.Properties.Resources.resources
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\obj\Debug\System.Math Sınıfı Metotlar.csproj.GenerateResource.Cache
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\obj\Debug\System.Math Sınıfı Metotlar.exe
+C:\Documents and Settings\admin\Desktop\Metotlar\System.Math Sınıfı Metotlar\System.Math Sınıfı Metotlar\obj\Debug\System.Math Sınıfı Metotlar.pdb

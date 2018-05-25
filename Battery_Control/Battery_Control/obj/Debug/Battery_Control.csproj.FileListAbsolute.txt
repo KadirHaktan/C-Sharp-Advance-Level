@@ -1,0 +1,9 @@
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\bin\Debug\Battery_Control.exe.config
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\bin\Debug\Battery_Control.exe
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\bin\Debug\Battery_Control.pdb
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\obj\Debug\Battery_Control.csprojResolveAssemblyReference.cache
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\obj\Debug\Battery_Control.Form1.resources
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\obj\Debug\Battery_Control.Properties.Resources.resources
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\obj\Debug\Battery_Control.csproj.GenerateResource.Cache
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\obj\Debug\Battery_Control.exe
+c:\users\ebubekir\documents\visual studio 2015\Projects\Battery_Control\Battery_Control\obj\Debug\Battery_Control.pdb

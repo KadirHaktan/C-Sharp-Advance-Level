@@ -1,0 +1,8 @@
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\bin\Debug\oyun.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\bin\Debug\oyun.pdb
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\obj\Debug\oyun.Form1.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\obj\Debug\oyun.Properties.Resources.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\obj\Debug\oyun.csproj.GenerateResource.Cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\obj\Debug\oyun.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\oyun\obj\Debug\oyun.pdb

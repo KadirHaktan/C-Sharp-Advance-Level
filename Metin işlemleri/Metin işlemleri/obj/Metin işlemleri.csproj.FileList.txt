@@ -1,0 +1,8 @@
+bin\Debug\Metin işlemleri.exe
+bin\Debug\Metin işlemleri.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Metin_işlemleri.Form1.resources
+obj\Debug\Metin_işlemleri.Properties.Resources.resources
+obj\Debug\Metin işlemleri.csproj.GenerateResource.Cache
+obj\Debug\Metin işlemleri.exe
+obj\Debug\Metin işlemleri.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\oYuN.Form1.resources
+obj\Debug\oYuN.Properties.Resources.resources
+obj\Debug\oYuN.csproj.GenerateResource.Cache
+bin\Debug\oYuN.exe
+bin\Debug\oYuN.pdb
+obj\Debug\oYuN.exe
+obj\Debug\oYuN.pdb

@@ -1,0 +1,8 @@
+bin\Debug\datagrid.exe
+bin\Debug\datagrid.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\datagrid.Form1.resources
+obj\Debug\datagrid.Properties.Resources.resources
+obj\Debug\datagrid.csproj.GenerateResource.Cache
+obj\Debug\datagrid.exe
+obj\Debug\datagrid.pdb

@@ -1,0 +1,9 @@
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\bin\Debug\BycleMontage.exe.config
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\bin\Debug\BycleMontage.exe
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\bin\Debug\BycleMontage.pdb
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\obj\Debug\BycleMontage.Properties.Resources.resources
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\obj\Debug\BycleMontage.csproj.GenerateResource.Cache
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\obj\Debug\BycleMontage.exe
+c:\users\dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\obj\Debug\BycleMontage.pdb
+C:\Users\Dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\obj\Debug\BycleMontage.csprojResolveAssemblyReference.cache
+C:\Users\Dogan\documents\visual studio 2017\Projects\BycleMontage\BycleMontage\obj\Debug\BycleMontage.Form1.resources

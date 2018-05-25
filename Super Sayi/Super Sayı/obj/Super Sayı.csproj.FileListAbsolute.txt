@@ -1,0 +1,8 @@
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\obj\Debug\Super Sayı.exe
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\obj\Debug\Super Sayı.pdb
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\bin\Debug\Super Sayı.exe
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\bin\Debug\Super Sayı.pdb
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\obj\Debug\ResolveAssemblyReference.cache
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\obj\Debug\Super_Sayı.Form1.resources
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\obj\Debug\Super_Sayı.Properties.Resources.resources
+J:\KİTAP_ARŞİVİ\c#\okulda yaptıklarımız\Super Sayı\Super Sayı\obj\Debug\Super Sayı.csproj.GenerateResource.Cache

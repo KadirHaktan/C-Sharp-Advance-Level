@@ -1,0 +1,8 @@
+bin\Debug\Super Sayı.exe
+bin\Debug\Super Sayı.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Super_Sayı.Form1.resources
+obj\Debug\Super_Sayı.Properties.Resources.resources
+obj\Debug\Super Sayı.csproj.GenerateResource.Cache
+obj\Debug\Super Sayı.exe
+obj\Debug\Super Sayı.pdb

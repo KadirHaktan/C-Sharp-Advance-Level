@@ -1,0 +1,8 @@
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\bin\Debug\Dgn_Calculator.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\bin\Debug\Dgn_Calculator.pdb
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\obj\Debug\Dgn_Calculator.Form1.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\obj\Debug\Dgn_Calculator.Properties.Resources.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\obj\Debug\Dgn_Calculator.csproj.GenerateResource.Cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\obj\Debug\Dgn_Calculator.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\Dgn_Calculator\obj\Debug\Dgn_Calculator.pdb

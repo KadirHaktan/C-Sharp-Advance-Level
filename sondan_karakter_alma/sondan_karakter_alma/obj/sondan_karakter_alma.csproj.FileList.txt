@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\sondan_karakter_alma.Form1.resources
+obj\Debug\sondan_karakter_alma.Properties.Resources.resources
+obj\Debug\sondan_karakter_alma.csproj.GenerateResource.Cache
+bin\Debug\sondan_karakter_alma.exe
+bin\Debug\sondan_karakter_alma.pdb
+obj\Debug\sondan_karakter_alma.exe
+obj\Debug\sondan_karakter_alma.pdb

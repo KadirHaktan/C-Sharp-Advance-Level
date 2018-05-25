@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Mediaplayerdgn 1.0">
+</Property><Property Name="Solution File" Value="C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Mediaplayerdgn 1.0.suo">
+</Property><Property Name="Date" Value="10 Eylül 2012 Pazartesi">
+</Property><Property Name="Time" Value="21:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Mediaplayerdgn 1.0.sln" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Mediaplayerdgn 1.0.suo" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0.suo">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj" Description="Project file successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj.user" Description="Project user file successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj.user">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Form1.cs" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Form1.Designer.cs" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Program.cs" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Program.cs">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Properties\Settings.settings" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Form1.resx" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Properties\Resources.resx" Description="File successfully backed up as C:\Users\ebubekir\Desktop\C#\Dgn_Mediaplayer  1.0\Backup\Mediaplayerdgn 1.0\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Mediaplayerdgn 1.0.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Mediaplayerdgn 1.0.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Mediaplayerdgn 1.0" Source="Mediaplayerdgn 1.0\Mediaplayerdgn 1.0.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

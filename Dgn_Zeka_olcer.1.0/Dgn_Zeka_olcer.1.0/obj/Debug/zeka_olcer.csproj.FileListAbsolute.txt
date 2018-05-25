@@ -1,0 +1,8 @@
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\bin\Debug\zeka_olcer.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\bin\Debug\zeka_olcer.pdb
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\obj\Debug\zeka_olcer.Form1.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\obj\Debug\zeka_olcer.Properties.Resources.resources
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\obj\Debug\zeka_olcer.csproj.GenerateResource.Cache
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\obj\Debug\zeka_olcer.exe
+C:\Users\ebubekir\AppData\Local\Temporary Projects\zeka_olcer\obj\Debug\zeka_olcer.pdb

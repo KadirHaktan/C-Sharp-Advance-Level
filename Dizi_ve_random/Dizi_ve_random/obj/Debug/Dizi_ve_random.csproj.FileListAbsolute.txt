@@ -1,0 +1,2 @@
+D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Dizi_ve_random\obj\Debug\Dizi_ve_random.exe
+D:\EĞİTİM SETLERİ\BİLİŞİM\GÖRSEL EĞİTİM SETLERİ\C#\okulda yaptıklarımız\Projects\Dizi_ve_random\Dizi_ve_random\obj\Debug\Dizi_ve_random.pdb

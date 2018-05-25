@@ -1,0 +1,8 @@
+bin\Debug\kayanyazı.exe
+bin\Debug\kayanyazı.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\kayanyazı.Form1.resources
+obj\Debug\kayanyazı.Properties.Resources.resources
+obj\Debug\kayanyazı.csproj.GenerateResource.Cache
+obj\Debug\kayanyazı.exe
+obj\Debug\kayanyazı.pdb
