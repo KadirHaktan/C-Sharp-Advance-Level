@@ -1,0 +1,7 @@
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\EbubekirDogan\source\repos\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
