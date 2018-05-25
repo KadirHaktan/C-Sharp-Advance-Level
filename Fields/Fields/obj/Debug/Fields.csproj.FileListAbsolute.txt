@@ -1,6 +1,0 @@
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Fields\Fields\bin\Debug\Fields.exe.config
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Fields\Fields\bin\Debug\Fields.exe
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Fields\Fields\bin\Debug\Fields.pdb
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Fields\Fields\obj\Debug\Fields.csprojResolveAssemblyReference.cache
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Fields\Fields\obj\Debug\Fields.exe
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Fields\Fields\obj\Debug\Fields.pdb

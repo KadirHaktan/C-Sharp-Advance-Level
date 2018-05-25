@@ -1,8 +1,0 @@
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\bin\Debug\TELEFON REHBERI2.exe
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\bin\Debug\TELEFON REHBERI2.pdb
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\obj\Debug\TELEFON_REHBERI2.Form1.resources
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\obj\Debug\TELEFON_REHBERI2.Properties.Resources.resources
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\obj\Debug\TELEFON REHBERI2.csproj.GenerateResource.Cache
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\obj\Debug\TELEFON REHBERI2.exe
-C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2008\Projects\TELEFON REHBERI2\TELEFON REHBERI2\obj\Debug\TELEFON REHBERI2.pdb

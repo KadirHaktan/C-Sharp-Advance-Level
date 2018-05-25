@@ -1,6 +1,0 @@
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Null_Kavrami\Null_Kavrami\bin\Debug\Null_Kavrami.exe.config
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Null_Kavrami\Null_Kavrami\bin\Debug\Null_Kavrami.exe
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Null_Kavrami\Null_Kavrami\bin\Debug\Null_Kavrami.pdb
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Null_Kavrami\Null_Kavrami\obj\Debug\Null_Kavrami.csprojResolveAssemblyReference.cache
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Null_Kavrami\Null_Kavrami\obj\Debug\Null_Kavrami.exe
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Null_Kavrami\Null_Kavrami\obj\Debug\Null_Kavrami.pdb

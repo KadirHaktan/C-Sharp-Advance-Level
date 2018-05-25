@@ -1,7 +1,0 @@
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb

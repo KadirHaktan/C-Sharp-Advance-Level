@@ -1,7 +1,0 @@
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

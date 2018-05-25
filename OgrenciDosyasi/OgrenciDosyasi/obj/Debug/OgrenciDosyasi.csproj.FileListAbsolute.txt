@@ -1,4 +1,0 @@
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\OgrenciDosyasi\OgrenciDosyasi\bin\Debug\OgrenciDosyasi.dll
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\OgrenciDosyasi\OgrenciDosyasi\bin\Debug\OgrenciDosyasi.pdb
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\OgrenciDosyasi\OgrenciDosyasi\obj\Debug\OgrenciDosyasi.dll
-c:\users\ebubekirdogan\documents\visual studio 2015\Projects\OgrenciDosyasi\OgrenciDosyasi\obj\Debug\OgrenciDosyasi.pdb

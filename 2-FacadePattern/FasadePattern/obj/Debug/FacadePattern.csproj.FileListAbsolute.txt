@@ -1,7 +1,0 @@
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\bin\Debug\FacadePattern.exe.config
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\bin\Debug\FacadePattern.exe
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\bin\Debug\FacadePattern.pdb
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\obj\Debug\FacadePattern.csprojResolveAssemblyReference.cache
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\obj\Debug\FacadePattern.exe
-C:\Users\EbubekirDogan\source\repos\Design-Pattern-C-Sharp\FasadePattern\FasadePattern\obj\Debug\FacadePattern.pdb
