@@ -1,0 +1,6 @@
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Nesne_Kavramina_Giris\Nesne_Kavramina_Giris\bin\Debug\Nesne_Kavramina_Giris.exe.config
+C:\Users\EbubekirDogan\Documents\Visual Studio 2015\Projects\Nesne_Kavramina_Giris\Nesne_Kavramina_Giris\bin\Debug\Nesne_Kavramina_Giris.exe
+C:\Users\EbubekirDogan\Documents\Visual Studio 2015\Projects\Nesne_Kavramina_Giris\Nesne_Kavramina_Giris\bin\Debug\Nesne_Kavramina_Giris.pdb
+C:\Users\EbubekirDogan\Documents\Visual Studio 2015\Projects\Nesne_Kavramina_Giris\Nesne_Kavramina_Giris\obj\Debug\Nesne_Kavramina_Giris.csprojResolveAssemblyReference.cache
+C:\Users\EbubekirDogan\Documents\Visual Studio 2015\Projects\Nesne_Kavramina_Giris\Nesne_Kavramina_Giris\obj\Debug\Nesne_Kavramina_Giris.exe
+C:\Users\EbubekirDogan\Documents\Visual Studio 2015\Projects\Nesne_Kavramina_Giris\Nesne_Kavramina_Giris\obj\Debug\Nesne_Kavramina_Giris.pdb

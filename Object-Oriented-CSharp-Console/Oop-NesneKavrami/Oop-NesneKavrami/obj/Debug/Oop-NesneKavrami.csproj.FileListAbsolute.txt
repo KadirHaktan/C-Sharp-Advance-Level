@@ -1,0 +1,6 @@
+c:\users\ebubekirdogan\documents\visual studio 2015\Projects\Oop-NesneKavrami\Oop-NesneKavrami\bin\Debug\Oop-NesneKavrami.exe.config
+C:\Users\EbubekirDogan\documents\visual studio 2015\Projects\Oop-NesneKavrami\Oop-NesneKavrami\bin\Debug\Oop-NesneKavrami.exe
+C:\Users\EbubekirDogan\documents\visual studio 2015\Projects\Oop-NesneKavrami\Oop-NesneKavrami\bin\Debug\Oop-NesneKavrami.pdb
+C:\Users\EbubekirDogan\documents\visual studio 2015\Projects\Oop-NesneKavrami\Oop-NesneKavrami\obj\Debug\Oop-NesneKavrami.csprojResolveAssemblyReference.cache
+C:\Users\EbubekirDogan\documents\visual studio 2015\Projects\Oop-NesneKavrami\Oop-NesneKavrami\obj\Debug\Oop-NesneKavrami.exe
+C:\Users\EbubekirDogan\documents\visual studio 2015\Projects\Oop-NesneKavrami\Oop-NesneKavrami\obj\Debug\Oop-NesneKavrami.pdb
