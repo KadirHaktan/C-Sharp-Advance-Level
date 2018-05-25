@@ -1,9 +1,0 @@
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\bin\Debug\ObjectOriented.exe.config
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\bin\Debug\ObjectOriented.exe
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\bin\Debug\ObjectOriented.pdb
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.csprojResolveAssemblyReference.cache
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.Form1.resources
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.Properties.Resources.resources
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.csproj.GenerateResource.Cache
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.exe
-c:\users\dogan\documents\visual studio 2017\Projects\ObjectOriented\ObjectOriented\obj\Debug\ObjectOriented.pdb
