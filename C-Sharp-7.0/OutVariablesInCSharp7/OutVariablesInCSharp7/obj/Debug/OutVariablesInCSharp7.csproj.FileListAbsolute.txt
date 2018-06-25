@@ -1,0 +1,7 @@
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\bin\Debug\OutVariablesInCSharp7.exe.config
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\bin\Debug\OutVariablesInCSharp7.exe
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\bin\Debug\OutVariablesInCSharp7.pdb
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\obj\Debug\OutVariablesInCSharp7.csprojResolveAssemblyReference.cache
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\obj\Debug\OutVariablesInCSharp7.csproj.CoreCompileInputs.cache
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\obj\Debug\OutVariablesInCSharp7.exe
+C:\Users\EbubekirDogan\source\repos\OutVariablesInCSharp7\OutVariablesInCSharp7\obj\Debug\OutVariablesInCSharp7.pdb
