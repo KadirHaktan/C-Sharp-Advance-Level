@@ -1,0 +1,7 @@
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.csprojAssemblyReference.cache
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\TypesAndVariables\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

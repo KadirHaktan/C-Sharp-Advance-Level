@@ -1,0 +1,6 @@
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\DesingPattern\1-Singleton-Desing-Pattern\bin\Debug\1-Singleton-Desing-Pattern.exe.config
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\DesingPattern\1-Singleton-Desing-Pattern\bin\Debug\1-Singleton-Desing-Pattern.exe
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\DesingPattern\1-Singleton-Desing-Pattern\bin\Debug\1-Singleton-Desing-Pattern.pdb
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\DesingPattern\1-Singleton-Desing-Pattern\obj\Debug\1-Singleton-Desing-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\DesingPattern\1-Singleton-Desing-Pattern\obj\Debug\1-Singleton-Desing-Pattern.exe
+C:\Users\Ebubekir Dogan\Documents\Visual Studio 2017\Projects\DesingPattern\1-Singleton-Desing-Pattern\obj\Debug\1-Singleton-Desing-Pattern.pdb
