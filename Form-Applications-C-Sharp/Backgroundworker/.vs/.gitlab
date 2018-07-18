@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2107217,
+    "Username": "leventtonkal",
+    "Name": "Levent Gürsoy TONKAL",
+    "Email": "leventtonkal@outlook.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/5bdafcafecdc50e478b06f4833705106?s=80&d=identicon",
+    "PrivateToken": "beda4d0d5f2c3fb15efcc7c71ef11989047e2e0f074d8e8625653f8a1e03173e",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
