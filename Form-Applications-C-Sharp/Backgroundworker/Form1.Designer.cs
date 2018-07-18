@@ -42,7 +42,7 @@
             // 
             // btnTopla
             // 
-            this.btnTopla.Location = new System.Drawing.Point(337, 51);
+            this.btnTopla.Location = new System.Drawing.Point(331, 61);
             this.btnTopla.Name = "btnTopla";
             this.btnTopla.Size = new System.Drawing.Size(75, 23);
             this.btnTopla.TabIndex = 0;
@@ -61,11 +61,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(755, 85);
+            this.ClientSize = new System.Drawing.Size(755, 96);
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.btnTopla);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Topla";
             this.ResumeLayout(false);
 
         }
